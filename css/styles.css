@@ -7780,6 +7780,10 @@ textarea.form-control-lg {
   color: white;
 }
 
+.text-head-phone {
+  color: black;
+}
+
 .text-black-50 {
   --bs-text-opacity: 1;
   color: rgba(0, 0, 0, 0.5) !important;
